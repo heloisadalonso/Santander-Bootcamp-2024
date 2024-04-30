@@ -17,11 +17,11 @@ Este repositório foi criado para armazenar tópicos relevantes sobre as aulas d
  ## 👩‍💻 PRINCIPAIS COMANDOS
  Abaixo listo os comandos apresentados durante o curso, sua função e aplicação.
  
-**Git Clone:** Clona um repositório existente para um novo diretório.
+**-Git Clone:** Clona um repositório existente para um novo diretório.
 Exemplo de aplicação: git clone https://github.com/exemplo/repo.git
-**Git Commit:** Grava as alterações no repositório local.
+**-Git Commit:** Grava as alterações no repositório local.
 Exemplo de aplicação: git commit -m "Adicionando novos recursos"
-**Git Pull:** Puxa as alterações do repositório remoto para o local.
+**-Git Pull:** Puxa as alterações do repositório remoto para o local.
 Exemplo de aplicação: git pull origin master
 **Git Push:** Empurra as alterações do repositório local para o remoto.
 Exemplo de aplicação: git push origin master
