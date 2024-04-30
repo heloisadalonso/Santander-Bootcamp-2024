@@ -54,7 +54,7 @@ Exemplo de aplicação: git stash
 - **Git Checkout:** Altera branches ou restaura arquivos do diretório de trabalho.
 Exemplo de aplicação: git checkout develop
  
- ## 📖 Documentação
+ ## 📁 Documentação
  - [Documentação Git](https://git-scm.com/doc)
  - [Documentação Github](https://docs.github.com/pt)
 Obs: O resumo acima refere-se somente ao módulo 'Versionamento de Código com Git e Github'.
