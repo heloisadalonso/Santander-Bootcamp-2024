@@ -58,3 +58,13 @@ Exemplo de aplicação: git checkout develop
  - [Documentação Git](https://git-scm.com/doc)
  - [Documentação Github](https://docs.github.com/pt)
 Obs: O resumo acima refere-se somente ao módulo 'Versionamento de Código com Git e Github'.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ por [Heloísa Dalonso](www.linkedin.com/in/heloisadalonso)
+
+ 
